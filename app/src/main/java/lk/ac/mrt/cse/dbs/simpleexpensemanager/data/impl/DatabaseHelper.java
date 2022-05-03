@@ -124,5 +124,11 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         db.close();
     }
 
+    public void removeAccount(String accountNo){
+        SQLiteDatabase db = this.getWritableDatabase();
+        db.delete("account","accountNo=?",new String[]{accountNo});
+        db.close();
+    }
+
 
 }
