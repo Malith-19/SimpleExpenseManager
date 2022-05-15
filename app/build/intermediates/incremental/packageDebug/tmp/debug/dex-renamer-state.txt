@@ -1,4 +1,4 @@
-#Sun May 15 11:12:09 IST 2022
+#Sun May 15 12:57:06 IST 2022
 base.0=H\:\\4th semester\\2 - Database Systems - 3 credits\\Lec 10 - Embedded Databases\\SimpleExpenseManager\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

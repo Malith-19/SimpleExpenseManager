@@ -3,24 +3,24 @@
 3    package="lk.ac.mrt.cse.dbs.simpleexpensemanager.test" >
 4
 5    <uses-sdk
-5-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:5:5-74
+5-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:5:5-74
 6        android:minSdkVersion="19"
-6-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:5:15-41
+6-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:5:15-41
 7        android:targetSdkVersion="26" />
-7-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:5:42-71
+7-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:5:42-71
 8
 9    <instrumentation
-9-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:11:5-15:88
+9-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:11:5-15:88
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:11:22-76
+10-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:11:22-76
 11        android:functionalTest="false"
-11-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:14:22-52
+11-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:14:22-52
 12        android:handleProfiling="false"
-12-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:13:22-53
+12-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:13:22-53
 13        android:label="Tests for lk.ac.mrt.cse.dbs.simpleexpensemanager"
-13-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:15:22-86
+13-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:15:22-86
 14        android:targetPackage="lk.ac.mrt.cse.dbs.simpleexpensemanager" />
-14-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:12:22-84
+14-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:12:22-84
 15
 16    <queries>
 16-->[androidx.test:runner:1.4.0] C:\Users\malit\.gradle\caches\transforms-2\files-2.1\c6ae6b0576d060a58d4c24594ec4747f\runner-1.4.0\AndroidManifest.xml:24:5-28:15
@@ -40,11 +40,11 @@
 22-->[androidx.test:core:1.4.0] C:\Users\malit\.gradle\caches\transforms-2\files-2.1\ad06d600da4f82e4126a1fe6d216c273\core-1.4.0\AndroidManifest.xml:24:22-69
 23
 24    <application android:debuggable="true" >
-24-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:7:5-9:19
-24-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:7:18-43
+24-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:7:5-9:19
+24-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:7:18-43
 25        <uses-library android:name="android.test.runner" />
-25-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:8:9-60
-25-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger8278004460494280554.xml:8:23-57
+25-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:8:9-60
+25-->H:\4th semester\2 - Database Systems - 3 credits\Lec 10 - Embedded Databases\SimpleExpenseManager\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4037868763377150200.xml:8:23-57
 26
 27        <activity
 27-->[androidx.test:core:1.4.0] C:\Users\malit\.gradle\caches\transforms-2\files-2.1\ad06d600da4f82e4126a1fe6d216c273\core-1.4.0\AndroidManifest.xml:27:9-34:20
