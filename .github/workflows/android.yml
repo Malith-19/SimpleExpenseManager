@@ -21,7 +21,7 @@ jobs:
       - name: Run sqlite tests
         uses: reactivecircus/android-emulator-runner@v2
         with:
-          api-level: 26
+          api-level: 29
           script: ./gradlew connectedCheck
 
       - name: Upload test report
@@ -44,8 +44,4 @@ jobs:
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
       - name: Build with Gradle
-
         run: ./gradlew build
-
-        run: ./gradlew build
-
