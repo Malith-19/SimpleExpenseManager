@@ -5,7 +5,10 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
+<<<<<<< HEAD
   workflow_dispatch:
+=======
+>>>>>>> 4e6f99263ca953b32434c91377036154af9313ba
 
 jobs:
 
@@ -44,4 +47,8 @@ jobs:
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
       - name: Build with Gradle
+<<<<<<< HEAD
         run: ./gradlew build
+=======
+        run: ./gradlew build
+>>>>>>> 4e6f99263ca953b32434c91377036154af9313ba
