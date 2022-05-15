@@ -84,7 +84,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     }
 
     //this method will add(insert data) account to account table
-    public void addAccount(Account account){
+    public boolean addAccount(Account account){
         SQLiteDatabase db = this.getWritableDatabase();
         ContentValues contentValues = new ContentValues();
 
@@ -95,10 +95,12 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
         db.insert("account",null,contentValues);
         db.close();
+
+        return true;
     }
 
     //this method will add(insert data) transaction details to transaction table
-    public void addTransaction(Transaction transaction){
+    public boolean addTransaction(Transaction transaction){
         SQLiteDatabase db = this.getWritableDatabase();
         ContentValues contentValues = new ContentValues();
 
@@ -109,9 +111,11 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
         db.insert("transactionLog",null,contentValues);
         db.close();
+
+        return true;
     }
 
-    public void updateAccount(Account account){
+    public boolean updateAccount(Account account){
         SQLiteDatabase db = this.getWritableDatabase();
         ContentValues contentValues = new ContentValues();
 
@@ -122,12 +126,15 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
         db.update("account",contentValues,"accountNo=?",new String[]{account.getAccountNo()});
         db.close();
+
+        return true;
     }
 
-    public void removeAccount(String accountNo){
+    public boolean removeAccount(String accountNo){
         SQLiteDatabase db = this.getWritableDatabase();
         db.delete("account","accountNo=?",new String[]{accountNo});
         db.close();
+        return true;
     }
 
 
